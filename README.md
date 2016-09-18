@@ -4,4 +4,4 @@
 Arduino code for NodeMCU.
 
 
-Simple schematic of the siren: http://i.imgur.com/wr5XCI7.jpg?1 (without amplifier)
+Simple schematic of the siren: http://i.imgur.com/wr5XCI7.jpg?1 (without amplifier). Hook up the IC inputs to the NodeMCU pins directly. Make sure to remove the buttons, and combine the two ground connections.
